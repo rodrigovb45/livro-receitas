@@ -6,3 +6,4 @@ vamos acompanhar a aula de git e github que o professor usa uma receita de strog
 
 - Git
 - Github
+- resolvendo conflitos
